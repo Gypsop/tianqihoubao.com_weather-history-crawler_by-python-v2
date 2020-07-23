@@ -1,5 +1,5 @@
 # 新版“天气后报”网站历史天气爬虫程序
-2020年了，回首[2018年时自己写的旧版爬虫](https://github.com/Gypsop/tianqihoubao.com_weather-history-crawler_by-python)，愈发觉得当初的稚嫩——既没有考虑反爬虫，也没有良好的代码组织和日志记录功能，因此将该项目重写。
+2020年了，回首[2018年时自己写的旧版爬虫](https://github.com/Gypsop/tianqihoubao.com_weather-history-crawler_by-python)，愈发觉得当初的稚嫩——既没有考虑反爬虫，也没有良好的代码组织结构和日志记录功能。稚嫩的爬虫不但容易激发目标服务器的反爬虫机制，也容易对目标网站产生不必要的访问压力。因此，我决定将该项目重写。
 
 ## 项目说明
 
