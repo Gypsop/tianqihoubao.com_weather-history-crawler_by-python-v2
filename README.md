@@ -20,7 +20,7 @@
 
 Python 3.6.5 (Linux-x64)
 
-本程序需要在统一路径下存在名为`link_county.txt`的链接列表文件，文件内容格式如下：
+本程序需要在同一路径下存在名为`link_county.txt`的链接列表文件，文件内容格式如下：
 
 ```
 北京市区,http://www.tianqihoubao.com/lishi/beijing.html
